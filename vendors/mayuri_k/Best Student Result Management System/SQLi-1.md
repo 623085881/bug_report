@@ -30,7 +30,7 @@ Cookie: PHPSESSID=3thbvl3jh0h823b43vpautdf10
 Connection: close
 ```
 
-
+![image](https://github.com/623085881/pic/blob/main/%60OCCSWJZ%404V%24YY5%25HMT4EUQ.png)
 
 
 
